@@ -26,11 +26,11 @@ This is a simple yet effective notes application built using React, Material UI,
 
 * Input box
 
-![Inupt box](/public/result/input-box.png)
+![Inupt box](/public/results/input-box.png)
 
 * note image
 
-![Note image](/public/result/note.png)
+![Note image](/public/results/note.png)
 
 
 ## Technologies used
