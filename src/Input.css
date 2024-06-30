@@ -1,0 +1,81 @@
+.input-box form{
+    /* height: 12rem; */
+    width: 30rem;
+    margin: 2rem auto;
+    /* padding: 1.5rem; */
+    padding: 1rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    border-radius: 1rem;
+    box-shadow: 0 0.0625rem 0.3125rem rgb(138, 137, 137);
+    background-color: white;
+    position: relative;
+}
+.input-box form input , textarea{
+    height: 2rem;
+    width: 100%;
+    padding: 1rem;
+    outline: none;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1.2rem;
+}
+.input-box form textarea{
+    height: 4rem;
+    resize: none;
+}
+.input-box form textarea:hover{
+    box-shadow: 0 0.0625rem 0.3125rem rgb(138, 137, 137);
+} 
+.input-box form input:hover{
+    box-shadow: 0 0.0625rem 0.3125rem rgb(138, 137, 137);
+} 
+.colour-choice{
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    list-style-type: none;
+}
+form ul{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1.5rem;
+    padding-left: 1rem;
+}
+.colour-choice:hover{
+    box-shadow: 0 0.0625rem 0.3125rem black;
+}
+form button{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    border: none;
+    background-color: black;
+    box-shadow: 0 0.0625rem 0.3125rem rgb(138, 137, 137);
+    color: white;
+    position: absolute;
+    top: 9rem;
+    left: 25rem;
+}
+form button:hover{
+    background-color: gray;
+}
+
+@media(min-width : 319px) and (max-width : 480px){
+   html{
+    font-size: 10px;
+   }
+   .input-box form{
+    margin: 3rem auto;
+  }
+}
+@media(min-width : 481px) and (max-width : 700px){
+    html{
+        font-size: 13px;
+    }
+}
