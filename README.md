@@ -18,7 +18,7 @@ This is a simple yet effective notes application built using React, Material UI,
 
 * Demo video of the app.
 
-![App Demo](https://www.loom.com/share/872d3344214040be83013fbba7006d7e?sid=a05d6594-5d12-47a4-8cd5-33c4e127e7fc)
+[watch the App Demo on loom](https://www.loom.com/share/872d3344214040be83013fbba7006d7e?sid=a05d6594-5d12-47a4-8cd5-33c4e127e7fc)
 
 * App image
 
