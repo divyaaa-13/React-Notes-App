@@ -22,15 +22,15 @@ This is a simple yet effective notes application built using React, Material UI,
 
 * App image
 
-![App image](public/result/notes1.png)
+![App image](/public/results/notes1.png)
 
 * Input box
 
-![Inupt box](public/result/input-box.png)
+![Inupt box](/public/result/input-box.png)
 
 * note image
 
-![Note image](public/result/note.png)
+![Note image](/public/result/note.png)
 
 
 ## Technologies used
